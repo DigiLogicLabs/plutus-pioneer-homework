@@ -20,14 +20,14 @@ Covered the installation and setup of nix-shell for the Plutus development envir
 - Play around with English Auction Script.
 
 # Week 2
-# Week 3
+<!-- # Week 3
 # Week 4
 # Week 5
 # Week 6
 # Week 7
 # Week 8
 # Week 9
-# Week 10
+# Week 10 -->
 
 # Plutus Contract Structure:
 > How I currently see it
@@ -45,6 +45,7 @@ Covered the installation and setup of nix-shell for the Plutus development envir
 Resources that helped me out as I was digging around for more information and learning about Plutus.
 
 - Plutus Playground Online: https://playground.plutus.iohkdev.io/
+- Awesome Plutus: https://github.com/mlabs-haskell/awesome-plutus#videos
 - IOG Rep: https://github.com/input-output-hk
 - PPP on StackExchange: https://cardano.stackexchange.com/questions/tagged/plutus-pioneer-program
 - Organic Design: https://organicdesign.nz/Plutus
