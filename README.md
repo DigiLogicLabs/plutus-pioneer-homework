@@ -7,6 +7,7 @@ This repo covers the (Cohort 3) Plutus Pioneer Program's week to week assignment
 
 # My Initial how & WTF's?
 > If you understand all these, congrats
+
 The EUTxO model, Monads, on/off chain implementation, minting policies, state machines, Plutus Application Framework (PAF), and Plutus Application Backend (PAB)
 
 # Week 1
@@ -14,9 +15,9 @@ The EUTxO model, Monads, on/off chain implementation, minting policies, state ma
 Covered the installation and setup of nix-shell for the Plutus development environment.
 - https://nixos.org/download.html (Links to an external site.)
 - https://docs.plutus-community.com
-Built basic contract for English Auction, started Playground server, and Playground client (in another nix-shell).
-To skip the environment setup process and just test scripts - there is a server hosted by the internal IOG team: https://playground.plutus.iohkdev.io/
-Play around with English Auction Script.
+- Built basic contract for English Auction, started Playground server, and Playground client (in another nix-shell).
+- To skip the environment setup process and just test scripts - there is a server hosted by the internal IOG team: https://playground.plutus.iohkdev.io/
+- Play around with English Auction Script.
 
 # Week 2
 # Week 3
@@ -32,7 +33,7 @@ Play around with English Auction Script.
 > How I currently see it
 
 1. Imports
-    a. Start by adding all needed contract libraries (based on task)
+ - Start by adding all needed contract libraries (based on task)
 2. Datum & Redeemer Types
 3. Validator Function
 4. Script Address & Instance
@@ -45,7 +46,7 @@ Resources that helped me out as I was digging around for more information and le
 
 - Plutus Playground Online: https://playground.plutus.iohkdev.io/
 - IOG Rep: https://github.com/input-output-hk
-- Plutus Pioneer on Stack Exchange: https://cardano.stackexchange.com/questions/tagged/plutus-pioneer-program
+- PPP on StackExchange: https://cardano.stackexchange.com/questions/tagged/plutus-pioneer-program
 - Organic Design: https://organicdesign.nz/Plutus
 - IOG Academy YouTube: https://www.youtube.com/channel/UCX9j__vYOJu00iqBrCzecVw
 - Lars Brünjes YouTube: https://www.youtube.com/channel/UCcAwSpbpQDDzEDRQqcDH8Iw
